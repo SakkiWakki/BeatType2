@@ -5,6 +5,7 @@ import com.badlogic.gdx.Screen;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.Texture;
+import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.badlogic.gdx.math.MathUtils;
 import com.sakkiwakki.beattype.BeatType;
@@ -78,5 +79,12 @@ public class LoadingScreen implements Screen {
 
     private void queueAssets() {
         game.assets.load("MainMenu/Logo.png", Texture.class);
+        game.assets.load("MainMenu/PlayArrow.png", Texture.class);
+        game.assets.load("MainMenu/ExitArrow.png", Texture.class);
+        game.assets.load("Select/SongPanel.png", Texture.class);
+        game.assets.load("Select/SongSelectButton.png", Texture.class);
+        game.assets.load("Gameplay/judgement/judgements.atlas", TextureAtlas.class);
+        game.assets.load("Gameplay/letters/letters.atlas", TextureAtlas.class);
+        game.assets.load("Gameplay/Number/Numbers.atlas", TextureAtlas.class);
     }
 }
