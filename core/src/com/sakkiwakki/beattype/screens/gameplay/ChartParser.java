@@ -9,5 +9,5 @@ interface ChartParser {
      * @param file
      * @param notes
      */
-    public void parseChart(String file, Array<Note> notes);
+    public Array parseChart(String file, Array<? extends Note> notes);
 }

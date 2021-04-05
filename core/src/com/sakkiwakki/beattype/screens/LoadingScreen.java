@@ -2,6 +2,8 @@ package com.sakkiwakki.beattype.screens;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Screen;
+import com.badlogic.gdx.audio.Music;
+import com.badlogic.gdx.audio.Sound;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.Texture;
@@ -83,8 +85,13 @@ public class LoadingScreen implements Screen {
         game.assets.load("MainMenu/ExitArrow.png", Texture.class);
         game.assets.load("Select/SongPanel.png", Texture.class);
         game.assets.load("Select/SongSelectButton.png", Texture.class);
+        game.assets.load("Gameplay/Track/Track.png", Texture.class);
+        game.assets.load("Gameplay/Track/TrackCircle.png", Texture.class);
+        game.assets.load("Gameplay/Track/Score.png", Texture.class);
         game.assets.load("Gameplay/judgement/judgements.atlas", TextureAtlas.class);
         game.assets.load("Gameplay/letters/letters.atlas", TextureAtlas.class);
         game.assets.load("Gameplay/Number/Numbers.atlas", TextureAtlas.class);
+        game.assets.load("Result/Result.atlas", TextureAtlas.class);
+        game.assets.load("Song/Ah Hah Yeah.mp3", Music.class);
     }
 }

@@ -14,6 +14,7 @@ import com.badlogic.gdx.scenes.scene2d.utils.TextureRegionDrawable;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.sakkiwakki.beattype.BeatType;
 import com.sakkiwakki.beattype.gameplay.Song;
+import com.sakkiwakki.beattype.screens.gameplay.TypeGameplay;
 
 import java.util.ArrayList;
 
@@ -63,7 +64,7 @@ public class SongSelectScreen implements Screen {
         button1.addListener(new ClickListener() {
             @Override
             public void clicked(InputEvent event, float x, float y) {
-                //game.setScreen(game.gameplayScreen);
+                game.setScreen(game.typeGameplay);
             }
         });
         stage.addActor(button1);

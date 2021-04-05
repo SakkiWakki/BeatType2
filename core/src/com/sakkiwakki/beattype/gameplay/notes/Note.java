@@ -3,8 +3,12 @@ package com.sakkiwakki.beattype.gameplay.notes;
 import com.badlogic.gdx.math.Rectangle;
 
 public class Note {
-    public int time;
-    public Rectangle rectangle = new Rectangle();
+    private int time;
+    private Rectangle rectangle = new Rectangle();
+
+    ////////////////
+    // Constructor
+    ////////////////
 
     public Note(int time, int posX, int posY) {
         this.time = time;
@@ -14,4 +18,15 @@ public class Note {
         this.rectangle.width = 64;
     }
 
+    /////////////
+    // Methods
+    /////////////
+
+    public int getTime() {
+        return time;
+    }
+
+    public Rectangle getRectangle() {
+        return rectangle;
+    }
 }

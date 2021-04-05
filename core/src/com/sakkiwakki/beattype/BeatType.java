@@ -7,10 +7,11 @@ import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.sakkiwakki.beattype.screens.LoadingScreen;
 import com.sakkiwakki.beattype.screens.MainMenuScreen;
+import com.sakkiwakki.beattype.screens.ResultsScreen;
 import com.sakkiwakki.beattype.screens.SongSelectScreen;
 import com.sakkiwakki.beattype.screens.gameplay.TypeGameplay;
 
-public class BeatType extends Game {
+public class BeatType<ResultScreen> extends Game {
 	public static int W_WIDTH = 1920;
 	public static int W_HEIGHT = 1080;
 
@@ -25,6 +26,8 @@ public class BeatType extends Game {
 	public MainMenuScreen mainMenuScreen;
 	public SongSelectScreen songSelectScreen;
 	public TypeGameplay typeGameplay;
+
+	public ResultsScreen resultScreen;
 	
 	@Override
 	public void create () {

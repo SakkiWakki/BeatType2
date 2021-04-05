@@ -1,274 +1,268 @@
 [Track Info]
-"Length":106966
-"BPM": "115-230"
+Length:106966
 
 [Chart]
-Track1
-"Offset":0.0,
-"ScrollBPM":115.0,
-"yPos":1350,
-"Objects":
-{"time":0, "type":"normal","key":"C"},
-{"time":260, "type":"normal","key":"A"},
-{"time":521, "type":"normal","key":"T"},
-{"time":782, "type":"normal","key":"A"},
-{"time":1304, "type":"normal","key":"N"},
-{"time":1565, "type":"normal","key":"D"},
-{"time":2086, "type":"normal","key":"M"},
-{"time":2608, "type":"normal","key":"O"},
-{"time":2869, "type":"normal","key":"U"},
-{"time":3391, "type":"hold", "holdEnd":3652,"key":"S"},
-{"time":4173, "type":"normal","key":"E"},
-{"time":4434, "type":"normal","key":"P"},
-{"time":4695, "type":"normal","key":"O"},
-{"time":4956, "type":"normal","key":"T"},
-{"time":5478, "type":"normal","key":" "},
-{"time":5739, "type":"normal","key":"T"},
-{"time":6260, "type":"normal","key":"O"},
-{"time":6782, "type":"normal","key":"M"},
-{"time":7043, "type":"normal","key":"I"},
-{"time":7565, "type":"normal","key":"N"},
-{"time":7826, "type":"normal","key":"J"},
-{"time":8086, "type":"normal","key":"I"},
-{"time":8347, "type":"normal","key":"G"},
-{"time":8869, "type":"normal","key":"O"},
-{"time":9130, "type":"normal","key":"K"},
-{"time":9652, "type":"normal","key":"U"},
-{"time":9913, "type":"normal","key":"D"},
-{"time":10434, "type":"normal","key":"I"},
-{"time":10956, "type":"normal","key":"A"},
-{"time":11217, "type":"normal","key":"M"},
-{"time":11739, "type":"hold", "holdEnd":12000,"key":"O"},
-{"time":12521, "type":"normal","key":"N"},
-{"time":13043, "type":"normal","key":"D"},
-{"time":13304, "type":"normal","key":" "},
-{"time":13826, "type":"normal","key":"W"},
-{"time":14086, "type":"normal","key":"H"},
-{"time":14608, "type":"normal","key":"O"},
-{"time":15130, "type":"normal","key":"C"},
-{"time":15391, "type":"normal","key":"R"},
-{"time":15913, "type":"hold", "holdEnd":16173,"key":"E"},
-{"time":16695, "type":"normal","key":"D"},
-{"time":17217, "type":"normal","key":"I"},
-{"time":17739, "type":"normal","key":"T"},
-{"time":18260, "type":"normal","key":"S"},
-{"time":18782, "type":"normal","key":" "},
-{"time":19304, "type":"normal","key":"A"},
-{"time":19826, "type":"normal","key":"C"},
-{"time":20347, "type":"normal","key":"T"},
-{"time":20869, "type":"normal","key":"I"},
-{"time":21391, "type":"normal","key":"V"},
-{"time":21913, "type":"normal","key":"A"},
-{"time":22434, "type":"normal","key":"T"},
-{"time":22956, "type":"normal","key":"E"},
-{"time":23478, "type":"normal","key":" "},
-{"time":24000, "type":"normal","key":"W"},
-{"time":24521, "type":"normal","key":"I"},
-{"time":25043, "type":"normal","key":"N"},
-{"time":25304, "type":"normal","key":"D"},
-{"time":25565, "type":"normal","key":"O"},
-{"time":25826, "type":"normal","key":"W"},
-{"time":26086, "type":"normal","key":"S"},
-{"time":26347, "type":"normal","key":" "},
-{"time":26608, "type":"normal","key":"A"},
-{"time":26869, "type":"normal","key":"L"},
-{"time":27130, "type":"normal","key":"I"},
-{"time":27391, "type":"normal","key":"E"},
-{"time":27652, "type":"normal","key":"N"},
-{"time":27913, "type":"normal","key":" "},
-{"time":28173, "type":"normal","key":"M"},
-{"time":28434, "type":"normal","key":"U"},
-{"time":28695, "type":"normal","key":"S"},
-{"time":28956, "type":"normal","key":"H"},
-{"time":29217, "type":"normal","key":"R"},
-{"time":29478, "type":"normal","key":"O"},
-{"time":29739, "type":"normal","key":"O"},
-{"time":30000, "type":"normal","key":"M"},
-{"time":30260, "type":"normal","key":" "},
-{"time":30521, "type":"normal","key":"D"},
-{"time":30782, "type":"normal","key":"E"},
-{"time":31043, "type":"normal","key":"S"},
-{"time":31304, "type":"normal","key":"C"},
-{"time":31565, "type":"normal","key":"R"},
-{"time":31826, "type":"normal","key":"I"},
-{"time":32086, "type":"normal","key":"P"},
-{"time":32347, "type":"hold", "holdEnd":33130,"key":"T"},
-{"time":33391, "type":"normal","key":"I"},
-{"time":33651, "type":"normal","key":"O"},
-{"time":33912, "type":"normal","key":"N"},
-{"time":34173, "type":"normal","key":" "},
-{"time":34434, "type":"normal","key":"A"},
-{"time":34695, "type":"normal","key":"T"},
-{"time":34956, "type":"normal","key":"A"},
-{"time":35217, "type":"hold", "holdEnd":35347,"key":"V"},
-{"time":35477, "type":"normal","key":"I"},
-{"time":35738, "type":"normal","key":"S"},
-{"time":35999, "type":"normal","key":"T"},
-{"time":36260, "type":"normal","key":"I"},
-{"time":36521, "type":"normal","key":"C"},
-{"time":36782, "type":"normal","key":" "},
-{"time":37043, "type":"hold", "holdEnd":37434,"key":"C"},
-{"time":37564, "type":"normal","key":"H"},
-{"time":37825, "type":"normal","key":"U"},
-{"time":38086, "type":"normal","key":"T"},
-{"time":38347, "type":"normal","key":"Z"},
-{"time":38608, "type":"normal","key":"P"},
-{"time":38869, "type":"normal","key":"A"},
-{"time":39130, "type":"normal","key":"H"},
-{"time":39390, "type":"hold", "holdEnd":39521,"key":" "},
-{"time":39651, "type":"normal","key":"M"},
-{"time":39912, "type":"normal","key":"O"},
-{"time":40173, "type":"normal","key":"D"},
-{"time":40434, "type":"normal","key":"I"},
-{"time":40695, "type":"normal","key":"C"},
-{"time":40956, "type":"hold", "holdEnd":41608,"key":"U"},
-{"time":41738, "type":"normal","key":"M"},
-{"time":41999, "type":"normal","key":" "},
-{"time":42260, "type":"normal","key":"P"},
-{"time":42521, "type":"normal","key":"A"},
-{"time":42782, "type":"normal","key":"R"},
-{"time":43043, "type":"normal","key":"S"},
-{"time":43304, "type":"hold", "holdEnd":43695,"key":"E"},
-{"time":43825, "type":"normal","key":" "},
-{"time":44086, "type":"normal","key":"S"},
-{"time":44347, "type":"normal","key":"E"},
-{"time":44608, "type":"normal","key":"G"},
-{"time":44869, "type":"normal","key":"U"},
-{"time":45390, "type":"hold", "holdEnd":45782,"key":"E"},
-{"time":45912, "type":"normal","key":" "},
-{"time":46173, "type":"normal","key":"O"},
-{"time":46434, "type":"normal","key":"V"},
-{"time":46695, "type":"normal","key":"E"},
-{"time":46956, "type":"normal","key":"R"},
-{"time":47217, "type":"normal","key":"T"},
-{"time":47347, "type":"normal","key":"U"},
-{"time":47608, "type":"hold", "holdEnd":47869,"key":"R"},
-{"time":47999, "type":"normal","key":"E"},
-{"time":48521, "type":"normal","key":" "},
-{"time":50086, "type":"normal","key":"J"},
-{"time":50346, "type":"normal","key":"O"},
-{"time":50607, "type":"normal","key":"U"},
-{"time":51390, "type":"normal","key":"K"},
-{"time":51651, "type":"normal","key":"U"},
-{"time":52172, "type":"normal","key":"U"},
-{"time":52433, "type":"normal","key":"N"},
-{"time":52694, "type":"normal","key":"I"},
-{"time":53477, "type":"normal","key":"U"},
-{"time":53738, "type":"normal","key":"C"},
-{"time":54259, "type":"normal","key":"H"},
-{"time":54520, "type":"normal","key":"U"},
-{"time":54781, "type":"normal","key":"U"},
-{"time":55564, "type":"normal","key":"S"},
-{"time":55825, "type":"normal","key":"E"},
-{"time":56346, "type":"normal","key":"N"},
-{"time":56607, "type":"normal","key":"S"},
-{"time":56868, "type":"normal","key":"H"},
-{"time":57651, "type":"normal","key":"U"},
-{"time":57912, "type":"hold", "holdEnd":58303,"key":"U"},
-{"time":58433, "type":"normal","key":"R"},
-{"time":58694, "type":"normal","key":"A"},
-{"time":58955, "type":"normal","key":"I"},
-{"time":59738, "type":"normal","key":" "},
-{"time":59999, "type":"normal","key":"S"},
-{"time":60520, "type":"normal","key":"U"},
-{"time":60781, "type":"normal","key":"R"},
-{"time":61042, "type":"normal","key":"R"},
-{"time":61825, "type":"normal","key":"E"},
-{"time":62086, "type":"normal","key":"P"},
-{"time":62607, "type":"normal","key":"T"},
-{"time":62868, "type":"normal","key":"I"},
-{"time":63129, "type":"normal","key":"T"},
-{"time":63912, "type":"normal","key":"I"},
-{"time":64172, "type":"normal","key":"O"},
-{"time":64694, "type":"normal","key":"U"},
-{"time":66781, "type":"normal","key":"S"},
-{"time":67303, "type":"normal","key":"L"},
-{"time":67825, "type":"normal","key":"Y"},
-{"time":68346, "type":"normal","key":" "},
-{"time":68868, "type":"normal","key":"R"},
-{"time":69390, "type":"normal","key":"E"},
-{"time":69912, "type":"normal","key":"N"},
-{"time":70433, "type":"normal","key":"E"},
-{"time":70955, "type":"normal","key":"G"},
-{"time":71477, "type":"normal","key":"E"},
-{"time":71999, "type":"normal","key":" "},
-{"time":72520, "type":"normal","key":"Q"},
-{"time":73042, "type":"normal","key":"U"},
-{"time":73564, "type":"normal","key":"I"},
-{"time":75129, "type":"normal","key":"E"},
-{"time":75389, "type":"normal","key":"S"},
-{"time":75650, "type":"normal","key":"C"},
-{"time":75911, "type":"normal","key":"E"},
-{"time":76172, "type":"normal","key":"N"},
-{"time":76433, "type":"normal","key":"T"},
-{"time":76694, "type":"normal","key":" "},
-{"time":76955, "type":"normal","key":"E"},
-{"time":77215, "type":"normal","key":"X"},
-{"time":77476, "type":"normal","key":"I"},
-{"time":77737, "type":"normal","key":"G"},
-{"time":77998, "type":"normal","key":"E"},
-{"time":78259, "type":"normal","key":"N"},
-{"time":78520, "type":"normal","key":"C"},
-{"time":78781, "type":"normal","key":"Y"},
-{"time":79042, "type":"normal","key":" "},
-{"time":79302, "type":"normal","key":"A"},
-{"time":79563, "type":"normal","key":"C"},
-{"time":79824, "type":"normal","key":"Q"},
-{"time":80085, "type":"normal","key":"U"},
-{"time":80346, "type":"normal","key":"I"},
-{"time":80607, "type":"normal","key":"E"},
-{"time":80868, "type":"normal","key":"S"},
-{"time":81129, "type":"normal","key":"C"},
-{"time":81389, "type":"hold", "holdEnd":82433,"key":"E"},
-{"time":83476, "type":"normal","key":" "},
-{"time":83737, "type":"hold", "holdEnd":83868,"key":"D"},
-{"time":83998, "type":"hold", "holdEnd":84128,"key":"E"},
-{"time":84259, "type":"hold", "holdEnd":84389,"key":"S"},
-{"time":84520, "type":"hold", "holdEnd":84650,"key":"P"},
-{"time":84781, "type":"hold", "holdEnd":84911,"key":"A"},
-{"time":85042, "type":"hold", "holdEnd":85172,"key":"R"},
-{"time":85302, "type":"hold", "holdEnd":85433,"key":"I"},
-{"time":85563, "type":"hold", "holdEnd":86607,"key":"T"},
-{"time":87650, "type":"normal","key":"Y"},
-{"time":87911, "type":"hold", "holdEnd":88563,"key":" "},
-{"time":88694, "type":"normal","key":"F"},
-{"time":88955, "type":"hold", "holdEnd":89607,"key":"E"},
-{"time":89737, "type":"normal","key":"A"},
-{"time":89998, "type":"hold", "holdEnd":90650,"key":"L"},
-{"time":90781, "type":"normal","key":"T"},
-{"time":91042, "type":"normal","key":"Y"},
-{"time":91433, "type":"normal","key":" "},
-{"time":91563, "type":"normal","key":"L"},
-{"time":91824, "type":"hold", "holdEnd":92737,"key":"O"},
-{"time":92868, "type":"normal","key":"Z"},
-{"time":93128, "type":"hold", "holdEnd":93781,"key":"E"},
-{"time":93911, "type":"normal","key":"N"},
-{"time":94172, "type":"hold", "holdEnd":94824,"key":"G"},
-{"time":94955, "type":"normal","key":"E"},
-{"time":95215, "type":"normal","key":" "},
-{"time":95476, "type":"normal","key":"B"},
-{"time":95737, "type":"hold", "holdEnd":95868,"key":"R"},
-{"time":95998, "type":"normal","key":"U"},
-{"time":96259, "type":"normal","key":"H"},
-{"time":96520, "type":"normal","key":" "},
-{"time":96781, "type":"normal","key":"V"},
-{"time":97042, "type":"normal","key":"E"},
-{"time":97302, "type":"normal","key":"L"},
-{"time":97563, "type":"normal","key":"L"},
-{"time":97824, "type":"hold", "holdEnd":97955,"key":"E"},
-{"time":98085, "type":"normal","key":"I"},
-{"time":98346, "type":"normal","key":"T"},
-{"time":98607, "type":"normal","key":"Y"},
-{"time":98868, "type":"hold", "holdEnd":98998,"key":" "},
-{"time":99128, "type":"normal","key":"A"},
-{"time":99389, "type":"normal","key":"N"},
-{"time":100172, "type":"normal","key":"D"},
-{"time":100433, "type":"normal","key":" "},
-{"time":100563, "type":"normal","key":"Y"},
-{"time":100824, "type":"normal","key":"U"},
-{"time":100955, "type":"normal","key":"K"},
-{"time":101215, "type":"hold", "holdEnd":101737,"key":"I"},
-{"time":101998, "type":"normal","key":"K"},
-{"time":102259, "type":"normal","key":"A"},
-{"time":102650, "type":"hold", "holdEnd":104215,"key":"Z"},
-{"time":104346, "type":"normal","key":"E"}
+C:0
+A:260
+T:521
+A:782
+N:1304
+D:1565
+M:2086
+O:2608
+U:2869
+S:3391
+E:4173
+P:4434
+O:4695
+T:4956
+ :5478
+T:5739
+O:6260
+M:6782
+I:7043
+N:7565
+J:7826
+I:8086
+G:8347
+O:8869
+K:9130
+U:9652
+D:9913
+I:10434
+A:10956
+M:11217
+O:11739
+N:12521
+D:13043
+ :13304
+W:13826
+H:14086
+O:14608
+C:15130
+R:15391
+E:15913
+D:16695
+I:17217
+T:17739
+S:18260
+ :18782
+A:19304
+C:19826
+T:20347
+I:20869
+V:21391
+A:21913
+T:22434
+E:22956
+ :23478
+W:24000
+I:24521
+N:25043
+D:25304
+O:25565
+W:25826
+S:26086
+ :26347
+A:26608
+L:26869
+I:27130
+E:27391
+N:27652
+ :27913
+M:28173
+U:28434
+S:28695
+H:28956
+R:29217
+O:29478
+O:29739
+M:30000
+ :30260
+D:30521
+E:30782
+S:31043
+C:31304
+R:31565
+I:31826
+P:32086
+T:32347
+I:33391
+O:33651
+N:33912
+ :34173
+A:34434
+T:34695
+A:34956
+V:35217
+I:35477
+S:35738
+T:35999
+I:36260
+C:36521
+ :36782
+C:37043
+H:37564
+U:37825
+T:38086
+Z:38347
+P:38608
+A:38869
+H:39130
+ :39390
+M:39651
+O:39912
+D:40173
+I:40434
+C:40695
+U:40956
+M:41738
+ :41999
+P:42260
+A:42521
+R:42782
+S:43043
+E:43304
+ :43825
+S:44086
+E:44347
+G:44608
+U:44869
+E:45390
+ :45912
+O:46173
+V:46434
+E:46695
+R:46956
+T:47217
+U:47347
+R:47608
+E:47999
+ :48521
+J:50086
+O:50346
+U:50607
+K:51390
+U:51651
+U:52172
+N:52433
+I:52694
+U:53477
+C:53738
+H:54259
+U:54520
+U:54781
+S:55564
+E:55825
+N:56346
+S:56607
+H:56868
+U:57651
+U:57912
+R:58433
+A:58694
+I:58955
+ :59738
+S:59999
+U:60520
+R:60781
+R:61042
+E:61825
+P:62086
+T:62607
+I:62868
+T:63129
+I:63912
+O:64172
+U:64694
+S:66781
+L:67303
+Y:67825
+ :68346
+R:68868
+E:69390
+N:69912
+E:70433
+G:70955
+E:71477
+ :71999
+Q:72520
+U:73042
+I:73564
+E:75129
+S:75389
+C:75650
+E:75911
+N:76172
+T:76433
+ :76694
+E:76955
+X:77215
+I:77476
+G:77737
+E:77998
+N:78259
+C:78520
+Y:78781
+ :79042
+A:79302
+C:79563
+Q:79824
+U:80085
+I:80346
+E:80607
+S:80868
+C:81129
+E:81389
+ :83476
+D:83737
+E:83998
+S:84259
+P:84520
+A:84781
+R:85042
+I:85302
+T:85563
+Y:87650
+ :87911
+F:88694
+E:88955
+A:89737
+L:89998
+T:90781
+Y:91042
+ :91433
+L:91563
+O:91824
+Z:92868
+E:93128
+N:93911
+G:94172
+E:94955
+ :95215
+B:95476
+R:95737
+U:95998
+H:96259
+ :96520
+V:96781
+E:97042
+L:97302
+L:97563
+E:97824
+I:98085
+T:98346
+Y:98607
+ :98868
+A:99128
+N:99389
+D:100172
+ :100433
+Y:100563
+U:100824
+K:100955
+I:101215
+K:101998
+A:102259
+Z:102650
+E:104346
