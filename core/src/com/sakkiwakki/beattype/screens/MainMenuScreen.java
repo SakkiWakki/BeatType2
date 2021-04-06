@@ -17,7 +17,7 @@ import com.sakkiwakki.beattype.BeatType;
 
 import static com.badlogic.gdx.scenes.scene2d.actions.Actions.*;
 
-public class MainMenuScreen implements Screen {
+public final class MainMenuScreen implements Screen {
 
     private final BeatType game;
 

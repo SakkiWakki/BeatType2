@@ -13,7 +13,7 @@ import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 import com.badlogic.gdx.scenes.scene2d.utils.TextureRegionDrawable;
 import com.sakkiwakki.beattype.BeatType;
 
-public class ResultsScreen implements Screen {
+public final class ResultsScreen implements Screen {
 
     private TextureAtlas resultTexAtlas;
     private TextureAtlas judgeTexAtlas;

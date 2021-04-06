@@ -20,7 +20,7 @@ import com.sakkiwakki.beattype.gameplay.Song;
 import java.util.ArrayList;
 
 
-public class SongSelectScreen implements Screen {
+public final class SongSelectScreen implements Screen {
     private final BeatType game;
 
     private Stage stage;

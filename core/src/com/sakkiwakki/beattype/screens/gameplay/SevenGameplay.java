@@ -22,7 +22,7 @@ import com.sakkiwakki.beattype.screens.ResultsScreen;
 
 import java.text.DecimalFormat;
 
-public class SevenGameplay implements Screen, ChartParser, NoteBehavior, Controls, ChartBehavior {
+public final class SevenGameplay implements Screen, ChartParser, NoteBehavior, Controls, ChartBehavior {
     private final BeatType game;
 
     public OrthographicCamera cam;

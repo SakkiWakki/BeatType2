@@ -23,7 +23,7 @@ import com.sakkiwakki.beattype.screens.ResultsScreen;
 
 import java.text.DecimalFormat;
 
-public class FourGameplay implements Screen, ChartParser, NoteBehavior, Controls, ChartBehavior {
+public final class FourGameplay implements Screen, ChartParser, NoteBehavior, Controls, ChartBehavior {
     private final BeatType game;
 
     public OrthographicCamera cam;

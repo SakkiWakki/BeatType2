@@ -11,7 +11,7 @@ import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.badlogic.gdx.math.MathUtils;
 import com.sakkiwakki.beattype.BeatType;
 
-public class LoadingScreen implements Screen {
+public final class LoadingScreen implements Screen {
 
     private final BeatType game;
 

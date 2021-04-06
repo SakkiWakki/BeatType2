@@ -1,6 +1,6 @@
 package com.sakkiwakki.beattype.gameplay.notes;
 
-public class Letter extends Note {
+public final class Letter extends Note {
     private String letter;
 
     ////////////////

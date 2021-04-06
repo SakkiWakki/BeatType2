@@ -22,7 +22,7 @@ import com.sakkiwakki.beattype.gameplay.notes.Letter;
 import com.sakkiwakki.beattype.screens.ResultsScreen;
 
 import java.text.DecimalFormat;
-public class TypeGameplay implements Screen, ChartParser, NoteBehavior, Controls, ChartBehavior
+public final class TypeGameplay implements Screen, ChartParser, NoteBehavior, Controls, ChartBehavior
      {
             private final BeatType game;
 

@@ -4,7 +4,7 @@ import com.sakkiwakki.beattype.gameplay.notes.Note;
 
 import java.util.ArrayList;
 
-public class Song {
+public final class Song {
     private String name;
     private String path;
     private int length;
