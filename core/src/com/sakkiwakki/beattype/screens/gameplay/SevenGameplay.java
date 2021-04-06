@@ -242,28 +242,28 @@ public class SevenGameplay implements Screen, ChartParser, NoteBehavior, Control
                             "white",
                             time,
                             cam.viewportWidth/2 - 60 - 150 - 150 - 150,
-                            (float) (time * scrollSpeed)));
+                            time * scrollSpeed));
                     break;
                 case 1:
                     lane1.add(new Note(
                             "blue",
                             time,
                             cam.viewportWidth/2 - 60 - 150 - 150,
-                            (float) (time * scrollSpeed)));
+                            time * scrollSpeed));
                     break;
                 case 2:
                     lane2.add(new Note(
                             "white",
                             time,
                             cam.viewportWidth/2 - 60 - 150,
-                            (float) (time * scrollSpeed)));
+                            time * scrollSpeed));
                     break;
                 case 3:
                     lane3.add(new Note(
                             "orange",
                             time,
                             cam.viewportWidth/2 - 60,
-                            (float) (time * scrollSpeed)));
+                            time * scrollSpeed));
                     break;
                 case 4:
                     lane4.add(new Note(
