@@ -1,6 +1,5 @@
 # BeatType2
-
-Better version of BeatType, still suck, expect a 3rd
+Expect another one
 --------------------------------------------------------
 
 Controls:
