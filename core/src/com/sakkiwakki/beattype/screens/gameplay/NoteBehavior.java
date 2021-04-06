@@ -5,7 +5,5 @@ import com.sakkiwakki.beattype.gameplay.notes.Note;
 
 public interface NoteBehavior {
     public void noteSpawning();
-    public void onHit();
-    public void hitJudgement();
 
 }

@@ -1,7 +1,3 @@
-[Track Info]
-Length:106966
-
-[Chart]
 C:0
 A:260
 T:521

@@ -7,8 +7,9 @@ import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.sakkiwakki.beattype.screens.LoadingScreen;
 import com.sakkiwakki.beattype.screens.MainMenuScreen;
-import com.sakkiwakki.beattype.screens.ResultsScreen;
 import com.sakkiwakki.beattype.screens.SongSelectScreen;
+import com.sakkiwakki.beattype.screens.gameplay.FourGameplay;
+import com.sakkiwakki.beattype.screens.gameplay.SevenGameplay;
 import com.sakkiwakki.beattype.screens.gameplay.TypeGameplay;
 
 public class BeatType<ResultScreen> extends Game {
@@ -26,8 +27,9 @@ public class BeatType<ResultScreen> extends Game {
 	public MainMenuScreen mainMenuScreen;
 	public SongSelectScreen songSelectScreen;
 	public TypeGameplay typeGameplay;
+	public FourGameplay fourGameplay;
+	public SevenGameplay sevenGameplay;
 
-	public ResultsScreen resultScreen;
 	
 	@Override
 	public void create () {
@@ -39,6 +41,8 @@ public class BeatType<ResultScreen> extends Game {
 		mainMenuScreen = new MainMenuScreen(this);
 		songSelectScreen = new SongSelectScreen(this);
 		typeGameplay = new TypeGameplay(this);
+		fourGameplay = new FourGameplay(this);
+		sevenGameplay = new SevenGameplay(this);
 
 		batch = new SpriteBatch();
 		font = new BitmapFont();
