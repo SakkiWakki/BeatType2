@@ -8,7 +8,7 @@ Controls:
   
   4k: A S Num5 Num6
   
-  7k: Q W E Num7 Num8 Num9
+  7k: Q W E Space Num7 Num8 Num9
   
 --------------------------------------------------------
 
