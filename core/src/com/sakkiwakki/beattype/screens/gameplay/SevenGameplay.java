@@ -155,8 +155,7 @@ public final class SevenGameplay implements Screen, ChartParser, NoteBehavior, C
         moveCamera(scrollSpeed);
 
         /////////////////////////////////////////////////////////////////////////////////////////////////////////////
-        //  HORRIBLE IMPLEMENTATION; DO NOT DO THIS IF YOU EVER USE THIS FRAMEWORK. I'M JUST TOO LAZY TO ACTUALLY  //
-        //  MAKE A STAGE FOR THIS LOL                                                                              //
+        //  Note renderer. Moves notes based on resolution                                                         //
         /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
         shapeRenderer.begin(ShapeRenderer.ShapeType.Filled);
